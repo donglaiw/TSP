@@ -1,6 +1,6 @@
 # [CVPR2013] Video Representation Using Temporal Superpixels
 
-MATLAB (mex) implementation of CVPR 2013 paper [(link)](http://people.csail.mit.edu/jchang7/pubs/publications/chang13_CVPR.pdf)
+MATLAB (mex) implementation of CVPR 2013 paper [[link]](http://people.csail.mit.edu/jchang7/pubs/publications/chang13_CVPR.pdf)
 
 <img src="results/tsp_teaser.png" width="900px"/>
 
