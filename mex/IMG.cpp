@@ -1061,6 +1061,7 @@ double IMG::move_local_calc_delta(int index, int new_k, bool add, double& max_pr
 		max_prob = prob;
 		max_k = new_k;
 	}
+    return prob;
 }
 
 
@@ -1087,6 +1088,7 @@ double IMG::move_local_calc_delta_MM(int index, int new_k, double& max_prob, int
       max_prob = prob;
       max_k = new_k;
    }
+   return prob;
 }
 
 
@@ -1203,6 +1205,7 @@ bool IMG::move_switch_IMG()
          }
       }
    }
+   return changed;
 }
 
 
